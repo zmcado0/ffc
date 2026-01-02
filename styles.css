@@ -43,7 +43,7 @@ nav a:hover {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: #764ba2 100%;
     color: white;
     padding: 120px 2rem 80px;
     text-align: center;
